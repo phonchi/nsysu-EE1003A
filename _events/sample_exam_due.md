@@ -1,12 +1,14 @@
 ---
-type: exam
-date: 2021-11-22
-description: 'Midterm'
-hide_from_announcments: true
+type: lecture
+date: 2023-09-04
+title: Cancelled due to Typhoon
+tldr: 
+thumbnail: 
+hide_from_announcments: false
+links: 
+    
 ---
-<!--- 
-**Topics:**
-1. Topic 1
-2. Topic 2
-3. Topic 3
---->
+**Suggested Readings:**
+
+
+
